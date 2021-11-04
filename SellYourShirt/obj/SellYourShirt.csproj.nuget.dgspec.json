@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\ASP.NET\\SellYourShirt\\SellYourShirt.csproj": {}
+    "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\SellYourShirt.csproj": {}
   },
   "projects": {
-    "N:\\ASP.NET\\SellYourShirt\\SellYourShirt.csproj": {
+    "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\SellYourShirt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\ASP.NET\\SellYourShirt\\SellYourShirt.csproj",
+        "projectUniqueName": "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\SellYourShirt.csproj",
         "projectName": "SellYourShirt",
-        "projectPath": "N:\\ASP.NET\\SellYourShirt\\SellYourShirt.csproj",
+        "projectPath": "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\SellYourShirt.csproj",
         "packagesPath": "C:\\Users\\kw496863\\.nuget\\packages\\",
-        "outputPath": "N:\\ASP.NET\\SellYourShirt\\obj\\",
+        "outputPath": "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

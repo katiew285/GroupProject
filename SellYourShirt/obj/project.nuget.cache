@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXgSi/oBdBcdl26VjFDNj9TYpZ9ES3wg3x/qsnk5EqtDr/71CtYk3sUSaztpWU4anhaA0sn8EUr9Q9nbkGzrtw==",
+  "dgSpecHash": "qxhAhhrfVWHMkiAc0wqy2TYmtsPFYNDbzCY9prylpnlEviYqYb5VKdbFYkP7wolCzknPZGK8yuRXIjqUh8oxIw==",
   "success": true,
-  "projectFilePath": "N:\\ASP.NET\\SellYourShirt\\SellYourShirt.csproj",
+  "projectFilePath": "C:\\Users\\kw496863\\Source\\Repos\\katiew285\\GroupProject\\SellYourShirt\\SellYourShirt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw496863\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\kw496863\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
